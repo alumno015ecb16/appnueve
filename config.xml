@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Villa Iluminada y Feria de la noche buena</name>
+    <name>Villa iluminada</name>
 
     <description>
-        Villa Iluminada y Feria de la noche buena 2014
+        novena aplicación móvil para android
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
@@ -19,8 +19,8 @@
         Uriel Brito Moreno
     </author>
 	
-        <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
+
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
-        <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
+<gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
 
 </widget>
